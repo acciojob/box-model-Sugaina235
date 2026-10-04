@@ -2,11 +2,10 @@
 .container{
 	width:500px;
 	margin:0 auto;
-	border:3px bold black;
+	border:3px solid black;
 	border-radius:30px;
-	background-color:
+	background-color:#dcdcdc;
 		padding:20px;
-	display:flex;
 	text-align:center;
 	align-items:center;
 	
